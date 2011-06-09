@@ -1,0 +1,9 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Here we will create a community around TASTY, with example TASTYL protocols, discussion about existing and new primitives and the pros and cons about TASTY.
+
+= Details =
+
+== TASTYL examples ==
