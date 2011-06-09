@@ -1,0 +1,54 @@
+#summary Documentation of TASTY Binary Distribution
+
+<wiki:toc max_depth="2" />
+
+= Installation =
+
+== Dependencies ==
+  * >=python-2.6.6 or >=python-2.7.1
+  * gnuplot-4.4.x with python bindings : 0 <= x <= 2
+  * gmpy-1.x : 11 <= x (http://code.google.com/p/gmpy/)
+  * distribute : http://pypi.python.org/pypi/distribute#downloads
+
+== Linux ==
+Unpack TASTY tarball:
+
+{{{
+tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2
+}}}
+
+Change current directory to your copy of TASTY:
+
+{{{
+cd Tasty-Binary-VERSION-py2.X.egg
+}}}
+
+Install into system path:
+
+{{{
+sudo python install.py
+}}}
+
+Uninstallation:
+
+{{{
+cd Tasty-VERSION-py2.X.egg
+sudo python install.py -u
+}}}
+
+== MacOSX ==
+Unpack TASTY tarball:
+{{{
+tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2
+sudo easy_install -Z Tasty-Binary-VERSION-py2.X.egg
+}}}
+
+= Using TASTY =
+
+== Quickstart ==
+create default protocol:
+{{{
+tasty_init tasty_test
+}}}
+
+*To be completed...*
