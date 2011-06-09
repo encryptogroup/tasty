@@ -1,3 +1,4 @@
+<code language="python">
 # -*- coding: utf-8 -*-
 
 """
@@ -57,3 +58,4 @@ def protocol(c, s):
     c.output("no match found")
   else:
     c.out.output(desc="matched index in DB")
+</code>
