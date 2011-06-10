@@ -127,7 +127,7 @@ A step by step guide is given in Appendix C of our paper mentioned below.
 
 == Protocol examples and TASTY grammar ==
 
-A step-by-step example is given in Appendix C of the [http://eprint.iacr.org/2010/365.pdf TASTY: Tool for Automating Secure Two-partY computations].
+A step-by-step example is given in Appendix C of [http://eprint.iacr.org/2010/365.pdf TASTY: Tool for Automating Secure Two-partY computations].
 
 To learn more about using primitives of TASTY, have a look at the protocols provided in the tests subdirectory.
 
