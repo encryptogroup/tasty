@@ -95,12 +95,11 @@ Tasty prefers IPv6 addresses and sockets, but also supports IPv4 networks. Comma
 
 === Keeping multiple protocols and drivers in a protocol environment ===
 
-The default method name for protocols is 'protocol'. When providing multiple protocols in one protocol file, the intended one can be chosen with the flag
-'-P PROTOCOL_NAME'.
+The default method name for protocols is 'protocol'. When providing multiple protocols in one protocol file, the intended one can be chosen with the flag *-P METHOD_NAME*.
 
-It is also possible to write multiple drivers into one protocol file. The intended driver can be chosen with the flag '-D DRIVER_NAME'.
+It is also possible to write multiple drivers into one protocol file. The intended driver can be chosen with the flag *-D DRIVER_NAME*.
 
-To interactively run a protocol without using a driver, the compile-time parameters provided in the 3rd formal parameter of the protocol ("params") need to be assigned by setting the special variable __params__ as in the following example::
+To interactively run a protocol without using a driver, the compile-time parameters provided in the 3^rd^ formal parameter of the protocol ("params") need to be assigned by setting the special variable __params__ as in the following example::
 
 <code language="python">
 
@@ -128,9 +127,7 @@ A step by step guide is given in Appendix C of our paper mentioned below.
 
 == Protocol examples and TASTY grammar ==
 
-A step-by-step example is given in Appendix C of the TASTY paper
-"TASTY: Tool for Automating Secure Two-partY computations",
-[http://eprint.iacr.org/2010/365.pdf]
+A step-by-step example is given in Appendix C of the [http://eprint.iacr.org/2010/365.pdf TASTY: Tool for Automating Secure Two-partY computations].
 
 To learn more about using primitives of TASTY, have a look at the protocols provided in the tests subdirectory.
 
