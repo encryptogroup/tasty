@@ -1,4 +1,5 @@
 #summary TASTYL Example Programs.
+#labels Featured
 
 ==TASTYL EXAMPLE PROGRAMS==
 The following example programs in TASTYL, the input language of TASTY, demonstrate some key features and use cases of TASTY:
