@@ -1,7 +1,3 @@
-#summary Documentation of TASTY Binary Distribution
-#labels Featured
-
-<wiki:toc max_depth="4" />
 
 = Installation =
 
