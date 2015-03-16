@@ -3,6 +3,8 @@ Summary
 
 **TASTY is a Tool for Automating (i.e., describing, generating, executing, benchmarking, and comparing) efficient Secure Two-partY computation protocols using combinations of garbled circuits and homomorphic encryption techniques.**
 
+The source code of TASTY is available at [https://github.com/tastyproject/tasty](https://github.com/tastyproject/tasty).
+
 Publications
 ===
 
