@@ -2,10 +2,10 @@ TASTYL EXAMPLE PROGRAMS
 ---
 The following example programs in TASTYL, the input language of TASTY, demonstrate some key features and use cases of TASTY:
 
- * [Evaluate circuits generated with Fairplay compiler](http://code.google.com/p/tastyproject/source/browse/tastyl/examples/fairplay_circuit.py)
- * [Easily combine homomorphic encryption and garbled circuits [KSS10]](http://code.google.com/p/tastyproject/source/browse/tastyl/examples/reference.py)
- * [Privacy-Preserving Set Intersection of [FNP04], [LP09]](http://code.google.com/p/tastyproject/source/browse/tastyl/examples/set_intersection.py)
- * [Privacy-Preserving Face Recognition of [SSW09]](http://code.google.com/p/tastyproject/source/browse/tastyl/examples/face_recognition.py)
+ * [Evaluate circuits generated with Fairplay compiler](https://github.com/encryptogroup/tastyproject/blob/master/tastyl/examples/fairplay_circuit.py)
+ * [Easily combine homomorphic encryption and garbled circuits [KSS10]](https://github.com/encryptogroup/tastyproject/blob/master/tastyl/examples/reference.py)
+ * [Privacy-Preserving Set Intersection of [FNP04], [LP09]](https://github.com/encryptogroup/tastyproject/blob/master/tastyl/examples/set_intersection.py)
+ * [Privacy-Preserving Face Recognition of [SSW09]](https://github.com/encryptogroup/tastyproject/blob/master/tastyl/examples/face_recognition.py)
 
 LITERATURE
 ---
