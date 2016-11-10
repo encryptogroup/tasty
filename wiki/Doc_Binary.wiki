@@ -8,8 +8,20 @@
   * distribute : [http://pypi.python.org/pypi/distribute#downloads]
 
 == Linux ==
-Unpack TASTY tarball:
+Make sure your're running Python 2.6 or 2.7 by running `python -V` and checking the output. If your native python version is 3.x, you can install a suitable version alongside and call it with `python2`.
 
+To install the dependencies on Debian-based distribution (Ubuntu, Linux Mint) you can use the following procedure.
+
+ sudo apt-get install gnuplot
+ sudo apt-get install python-pip
+ sudo pip install gmpy
+
+Then download, extract and install `gnuplot-py` [https://sourceforge.net/projects/gnuplot-py/files/latest/download]
+
+ cd gnuplot-py-1.8/
+ sudo python setup.py install
+
+Unpack the TASTY tarball:
 <code>
 tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2
 </code>
