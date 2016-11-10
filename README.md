@@ -5,6 +5,8 @@ Summary
 
 The source code of TASTY is available at [https://github.com/tastyproject/tasty](https://github.com/tastyproject/tasty).
 
+The documentation on how to install and use TASTY can be found at [https://github.com/encryptogroup/tasty/blob/master/wiki/Doc_Binary.wiki]
+
 Publications
 ===
 
