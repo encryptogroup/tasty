@@ -29,18 +29,14 @@ sudo python install.py
 
 Uninstallation:
 
-<code>
-cd Tasty-VERSION-py2.X.egg<br>
-sudo python install.py -u
-</code>
+<code>cd Tasty-VERSION-py2.X.egg</code>
+<code>sudo python install.py -u</code>
 
 == MacOSX ==
 Unpack TASTY tarball:
 
-<code>
-tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2<br>
-sudo easy_install -Z Tasty-Binary-VERSION-py2.X.egg
-</code>
+<code>tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2</code>
+<code>sudo easy_install -Z Tasty-Binary-VERSION-py2.X.egg</code>
 
 = Using TASTY =
 
