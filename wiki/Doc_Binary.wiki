@@ -36,6 +36,7 @@ sudo python install.py -u
 
 == MacOSX ==
 Unpack TASTY tarball:
+
 <code>
 tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2
 sudo easy_install -Z Tasty-Binary-VERSION-py2.X.egg
