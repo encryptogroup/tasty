@@ -14,6 +14,7 @@ To install the dependencies on a Debian-based distribution (Ubuntu, Linux Mint) 
 
  sudo apt-get install gnuplot
  sudo apt-get install python-pip
+ sudo apt-get install python-numpy
  sudo pip install gmpy
 
 Then download, extract and install <code>gnuplot-py</code> from [https://sourceforge.net/projects/gnuplot-py/files/latest/download]
