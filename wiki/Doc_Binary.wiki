@@ -10,55 +10,56 @@
 == Linux ==
 Unpack TASTY tarball:
 
-{{{
+<code>
 tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2
-}}}
+</code>
+
 
 Change current directory to your copy of TASTY:
 
-{{{
+<code>
 cd Tasty-Binary-VERSION-py2.X.egg
-}}}
+</code>
 
 Install into system path:
 
-{{{
+<code>
 sudo python install.py
-}}}
+</code>
 
 Uninstallation:
 
-{{{
+<code>
 cd Tasty-VERSION-py2.X.egg
 sudo python install.py -u
-}}}
+</code>
 
 == MacOSX ==
 Unpack TASTY tarball:
-{{{
+<code>
 tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2
 sudo easy_install -Z Tasty-Binary-VERSION-py2.X.egg
-}}}
+</code>
 
 = Using TASTY =
 
 == Quickstart ==
 
 create default protocol:
-{{{
+<code>
 tasty_init tasty_test
-}}}
+</code>
 
 start server process:
-{{{
+<code>
 tasty -sv tasty_test
-}}}
+</code>
 
 start client process:
 
-{{{
+<code>
 tasty -cv tasty_test
-}}}
+</code>
 
 == Options ==
 
