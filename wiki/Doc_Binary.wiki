@@ -46,11 +46,13 @@ sudo easy_install -Z Tasty-Binary-VERSION-py2.X.egg
 == Quickstart ==
 
 create default protocol:
+
 <code>
 tasty_init tasty_test
 </code>
 
 start server process:
+
 <code>
 tasty -sv tasty_test
 </code>
