@@ -30,7 +30,7 @@ sudo python install.py
 Uninstallation:
 
 <code>
-cd Tasty-VERSION-py2.X.egg
+cd Tasty-VERSION-py2.X.egg<br>
 sudo python install.py -u
 </code>
 
@@ -38,7 +38,7 @@ sudo python install.py -u
 Unpack TASTY tarball:
 
 <code>
-tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2
+tar xvjf Tasty-Binary-VERSION-py2.X.tar.bz2<br>
 sudo easy_install -Z Tasty-Binary-VERSION-py2.X.egg
 </code>
 
